@@ -9,9 +9,9 @@
 
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steffen70&layout=compact&theme=flag-india&hide_border=true" style="height: 200px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steffen70&layout=compact&theme=flag-india&hide_border=true" style="height: 150px;">
   </a>
   <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Steffen70&theme=flag-india&hide_border=true" style="height: 200px;">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Steffen70&theme=flag-india&hide_border=true" style="height: 150px;">
   </a>
 </div>
