@@ -7,6 +7,5 @@
 </div>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steffen70&layout=compact&theme=flag-india&hide_border=true" style="height: 155px;">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Steffen70&theme=flag-india&hide_border=true" style="height: 155px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steffen70&hide_progress=true&theme=flag-india&hide_border=true&langs_count=20" style="width: 400px; max-width: 100%;">
 </div>
